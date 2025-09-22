@@ -8,7 +8,7 @@ main:
     pdf: https://arxiv.org/pdf/2509.09852
     code: https://github.com/chuyuanli/TopicRL-for-MDS
     # bibtex: https://arxiv.org/abs/2509.09852
-    image: ./assets/img/paper/25emnlp-topicRL.pdf
+    image: ./assets/img/paper/25emnlp-topicRL.jpg
     # notes: Early Accept
 
   - title: "CEMTM: Contextual Embedding-based Multimodal Topic Modeling"
@@ -20,7 +20,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/paper/25emnlp-cemtm.pdf
+    image: ./assets/img/paper/25emnlp-cemtm.jpg
 
   - title: "Delta-KNN: Improving Demonstration Selection in In-Context Learning for Alzheimer's Disease Detection"
     authors: <strong>Chuyuan Li</strong>, Raymond Li, Thalia S. Field, and Giuseppe Carenini
