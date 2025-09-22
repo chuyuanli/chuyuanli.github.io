@@ -4,7 +4,7 @@ main:
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     authors: <strong>Chuyuan Li</strong>, Austin Xu, Shafiq Joty, Giuseppe Carenini
     conference_short: Findings EMNLP
-    conference: Findings of the Association for Computational Linguistics <strong>(EMNLP)</strong>, 2025.
+    conference: Findings of the Association for Computational Linguistics <strong>(Findings EMNLP)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2509.09852
     code: https://github.com/chuyuanli/TopicRL-for-MDS
     # bibtex: https://arxiv.org/abs/2509.09852
@@ -20,7 +20,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/paper/25emnlp-cemtm.pdf
+    image: ./assets/img/paper/25emnlp-cemtm.jpg
 
   - title: "Delta-KNN: Improving Demonstration Selection in In-Context Learning for Alzheimer's Disease Detection"
     authors: <strong>Chuyuan Li</strong>, Raymond Li, Thalia S. Field, and Giuseppe Carenini
@@ -35,8 +35,8 @@ main:
 
   - title: "Explicit Bayesian Inference to Uncover the Latent Themes of Large Language Models"
     authors: Raymond Li, <strong>Chuyuan Li</strong>, Gabriel Murray, and Giuseppe Carenini
-    conference_short: ACL
-    conference: Findings of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
+    conference_short: Findings ACL
+    conference: Findings of the Association for Computational Linguistics <strong>(Findings ACL)</strong>, 2025.
     pdf: https://aclanthology.org/2025.findings-acl.1123.pdf
     # code: https://github.com/chuyuanli/Delta-KNN
     page: https://aclanthology.org/2025.findings-acl.1123
