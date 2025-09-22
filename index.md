@@ -25,7 +25,7 @@ I have broad interests in natural language processing and computational linguist
 - **[Jan. 2025]** One paper accepted to Patient-Oriented Language Processing (CL4Health) workshop, NAACL 2025.
 - **[Oct. 2024]** One paper accepted to Machine Learning for Health Symposium (ML4H), NeurIPS 2024.
 - **[Sep. 2024]** My first-author paper won the Best Paper Award at SIGdial 2024!
-- **[Jun. 2025]** Two papers accepted to SIGdial 2025.
+- **[Jun. 2024]** Two papers accepted to SIGdial 2024.
 
 
 {% include_relative _includes/publications.md %}
