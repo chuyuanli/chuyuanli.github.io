@@ -55,6 +55,17 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/paper/25cl4health.png
 
+  - title: "Multimodal Classification of Alzheimer's Disease by Combining Facial and Eye-tracking Data"
+    authors: Shih-Han Chou, Miini Teng, Harshinee Sriram, <strong>Chuyuan Li</strong>, Giuseppe Carenini, Cristina Conati, Thalia S. Field, Hyeju Jang, Gabriel Murray
+    conference_short: ML4H
+    conference: Proceedings of the 4th Machine Learning for Health Symposium (<strong>CL4H</strong>), PMLR, 2024.
+    pdf: https://proceedings.mlr.press/v259/chou25a.html
+    # code: https://github.com/chuyuanli/Delta-KNN
+    # page: https://aclanthology.org/2025.acl-long.1253/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/paper/24ml4h-multimodal-AD.png
+
   - title: "Dialogue Discourse Parsing as Generation: a Sequence-to-Sequence LLM-based Approach"
     authors: <strong>Chuyuan Li</strong>, Yuwei Yin, and Giuseppe Carenini
     conference_short: SIGdial
@@ -64,7 +75,7 @@ main:
     # page: https://aclanthology.org/2025.acl-long.1253/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Best Paper Award
-    image: ./assets/img/paper/25sigdial-seq2seq-ddp.png
+    image: ./assets/img/paper/24sigdial-seq2seq-ddp.png
 
   - title: "Coherence-based Dialogue Discourse Structure Extraction using Open-Source Large Language Models"
     authors: Gaetano Cimino, <strong>Chuyuan Li</strong>, Giuseppe Carenini, and Vincenzo Deufemia
@@ -76,3 +87,20 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Best Paper Award
     # image: ./assets/img/paper/25sigdial-seq2seq-ddp.png
+
+  - title: "Discourse Structure Extraction from Pre-Trained and Fine-Tuned Language Models in Dialogues"
+    authors: <strong>Chuyuan Li</strong>, Patrick Huber, Wen Xiao, Maxime Amblard, Chloé Braud and Giuseppe Carenini.
+    conference_short: Findings EACL
+    conference: Findings of the European Chapter of the Association for Computational Linguistics (<strong>Findings EACL</strong>), 2023.
+    pdf: https://aclanthology.org/2023.findings-eacl.194/
+    code: https://github.com/chuyuanli/PLM4DiscStruct
+    # page: https://aclanthology.org/2025.acl-long.1253/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Best Paper Award
+    # image: ./assets/img/paper/25sigdial-seq2seq-ddp.png
+
+  - title: "Multi-Task Learning for Depression Detection in Dialogs"
+    authors: <strong>Chuyuan Li</strong>, Chloé Braud, and Maxime Amblard
+    conference_short: SIGdial
+    conference: Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (<strong>SIGdial</strong>), 2022.
+    pdf: https://aclanthology.org/2022.sigdial-1.7/
