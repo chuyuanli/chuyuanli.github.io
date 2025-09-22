@@ -12,7 +12,6 @@ Prior to that, I earned my Master's in [Computational Linguistique](https://u-p
 ## Research Interests
 
 I have broad interests in natural language processing and computational linguistics. Some of the topics that I am currently researching include:
-
 - **Discourse Processing:** discourse parsing, discourse/pragmatic reasoning, long-text understanding and generation, structured knowledge
 - **Large Language Models:** in-context learning, post-training, applications on healthcare and multi-agent systems, interpretability
 
@@ -23,7 +22,7 @@ I have broad interests in natural language processing and computational linguist
 - **[Aug. 2025]** Two papers accepted to EMNLP 2025.
 - **[May 2025]** Two papers accepted to ACL 2025.
 - **[Jan. 2025]** One paper accepted to Patient-Oriented Language Processing (CL4Health) workshop, NAACL 2025.
-- **[Oct. 2024]** One paper accepted to Machine Learning for Health Symposium (ML4H), NeurIPS 2024.
+- **[Oct. 2024]** One paper accepted to Machine Learning for Health Symposium (ML4H) 2024.
 - **[Sep. 2024]** My first-author paper won the Best Paper Award at SIGdial 2024!
 - **[Jun. 2024]** Two papers accepted to SIGdial 2024.
 
