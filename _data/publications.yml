@@ -20,7 +20,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/paper/25emnlp-cemtm.jpg
+    image: ./assets/img/paper/25emnlp-cemtm.pdf
 
   - title: "Delta-KNN: Improving Demonstration Selection in In-Context Learning for Alzheimer's Disease Detection"
     authors: <strong>Chuyuan Li</strong>, Raymond Li, Thalia S. Field, and Giuseppe Carenini
@@ -31,7 +31,7 @@ main:
     page: https://aclanthology.org/2025.acl-long.1253/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/paper/25acl-delta-knn.pdf
+    image: ./assets/img/paper/25acl-deltaKNN.png
 
   - title: "Explicit Bayesian Inference to Uncover the Latent Themes of Large Language Models"
     authors: Raymond Li, <strong>Chuyuan Li</strong>, Gabriel Murray, and Giuseppe Carenini
@@ -42,4 +42,4 @@ main:
     page: https://aclanthology.org/2025.findings-acl.1123
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/paper/25acl-explicit-bayesian.pdf
+    image: ./assets/img/paper/25acl-explicit-bayesian.png
