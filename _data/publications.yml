@@ -75,7 +75,7 @@ main:
     # page: https://aclanthology.org/2025.acl-long.1253/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Best Paper Award
-    image: ./assets/img/paper/24sigdial-seq2seq-ddp.png
+    # image: ./assets/img/paper/24sigdial-seq2seq-ddp.png
 
   - title: "Coherence-based Dialogue Discourse Structure Extraction using Open-Source Large Language Models"
     authors: Gaetano Cimino, <strong>Chuyuan Li</strong>, Giuseppe Carenini, and Vincenzo Deufemia
