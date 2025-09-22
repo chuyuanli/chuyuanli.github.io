@@ -1,23 +1,45 @@
 main:
 
-  - title: Topic-Guided Reinforcement Learning with LLMs for Enhancing Multi-Document Summarization
+  - title: "Topic-Guided Reinforcement Learning with LLMs for Enhancing Multi-Document Summarization"
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     authors: <strong>Chuyuan Li</strong>, Austin Xu, Shafiq Joty, Giuseppe Carenini
     conference_short: Findings EMNLP
-    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2025.
+    conference: Findings of the Association for Computational Linguistics <strong>(EMNLP)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2509.09852
     code: https://github.com/chuyuanli/TopicRL-for-MDS
-    bibtex: https://arxiv.org/abs/2509.09852
+    # bibtex: https://arxiv.org/abs/2509.09852
     image: ./assets/img/paper/25emnlp-topicRL.pdf
     # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "CEMTM: Contextual Embedding-based Multimodal Topic Modeling"
+    authors: Amirhossein Abaskohi, Raymond Li, <strong>Chuyuan Li</strong>, Shafiq Joty, and Giuseppe Carenini
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2509.11465
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/paper/25emnlp-cemtm.pdf
+
+  - title: "Delta-KNN: Improving Demonstration Selection in In-Context Learning for Alzheimer's Disease Detection"
+    authors: <strong>Chuyuan Li</strong>, Raymond Li, Thalia S. Field, and Giuseppe Carenini
+    conference_short: ACL
+    conference: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
+    pdf: https://aclanthology.org/2025.acl-long.1253.pdf
+    code: https://github.com/chuyuanli/Delta-KNN
+    page: https://aclanthology.org/2025.acl-long.1253/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/paper/25acl-delta-knn.pdf
+
+  - title: "Explicit Bayesian Inference to Uncover the Latent Themes of Large Language Models"
+    authors: Raymond Li, <strong>Chuyuan Li</strong>, Gabriel Murray, and Giuseppe Carenini
+    conference_short: ACL
+    conference: Findings of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
+    pdf: https://aclanthology.org/2025.findings-acl.1123.pdf
+    # code: https://github.com/chuyuanli/Delta-KNN
+    page: https://aclanthology.org/2025.findings-acl.1123
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/paper/25acl-explicit-bayesian.pdf
