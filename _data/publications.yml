@@ -26,7 +26,7 @@ main:
     authors: <strong>Chuyuan Li</strong>, Raymond Li, Thalia S. Field, and Giuseppe Carenini
     conference_short: ACL
     conference: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
-    pdf: https://aclanthology.org/2025.acl-long.1253.pdf
+    pdf: https://aclanthology.org/2025.acl-long.1253
     code: https://github.com/chuyuanli/Delta-KNN
     # page: https://aclanthology.org/2025.acl-long.1253/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -37,7 +37,7 @@ main:
     authors: Raymond Li, <strong>Chuyuan Li</strong>, Gabriel Murray, and Giuseppe Carenini
     conference_short: Findings ACL
     conference: Findings of the Association for Computational Linguistics <strong>(Findings ACL)</strong>, 2025.
-    pdf: https://aclanthology.org/2025.findings-acl.1123.pdf
+    pdf: https://aclanthology.org/2025.findings-acl.1123
     # code: https://github.com/chuyuanli/Delta-KNN
     # page: https://aclanthology.org/2025.findings-acl.1123
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
