@@ -12,8 +12,9 @@ Prior to that, I earned my Master's in [Computational Linguistique](https://u-p
 ## Research Interests
 
 I have broad interests in natural language processing and computational linguistics. Some of the topics that I am currently researching include:
-- **Discourse Processing:** discourse parsing, discourse/pragmatic reasoning, long-text understanding and generation, structured knowledge
-- **Large Language Models:** in-context learning, post-training, applications on healthcare and multi-agent systems, interpretability
+- **Discourse Processing:** discourse parsing, discourse/pragmatic reasoning, long-document understanding and generation, structured knowledge
+- **Large Language Models:** in-context learning, post-training, interpretability, LLM-based multi-agent systems
+- **AI for Healthcare:** language specificity detection in mental and neurodegenerative disease, ML-mediated analysis, speech and multimodal data
 
 ## News
 
