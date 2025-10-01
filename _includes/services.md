@@ -13,7 +13,7 @@
 <h4 style="margin:0 10px 0;">Program Committee/Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Program Committee at AAAI 2025, IWCS 2025, SIGdial 2024-2025</autocolor></li>
+  <li><autocolor>Program Committee at LREC 2026, AAAI 2025, IWCS 2025, SIGdial 2024-2025</autocolor></li>
   <li><autocolor>Area Chair (Discourse and Pragmatics track) at NAACL 2025, COLING 2025, EMNLP 2024, EACL 2024</autocolor></li>
   <li><autocolor>Reviewer at ARR OpenReview since 2023</autocolor></li>
 </ul>
