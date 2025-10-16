@@ -68,7 +68,6 @@ papertitle { font-weight: 600; font-size: 100%; }
 /* .image.avatar img { border-radius: 0%; width: 80%; padding: 0; } */
 .image.avatar img {
   width: 100%;          /* Fill the container */
-  height: 100%;         /* Fill height too */
   object-fit: cover;    /* Crop image nicely if aspect ratio differs */
   border-radius: 0;     /* Keep it rectangular */
   padding: 0;
@@ -178,7 +177,7 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
 .bibref { font-size: 70%; margin-top: 10px; margin-left: 0px; display: none; font-family: monospace; }
 
 
-#header .image.avatar img {
+/* #header .image.avatar img {
   width: 300px !important;
   border-radius: 0 !important;
   object-fit: cover !important;
@@ -186,4 +185,4 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
 
 #header .image.avatar {
   width: 300px !important;
-}
+} */
