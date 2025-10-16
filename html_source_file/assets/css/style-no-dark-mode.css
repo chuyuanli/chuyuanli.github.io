@@ -27,7 +27,7 @@ body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif
 
 .github span { background-color: #000; }
 
-email { font-size: 16px; font-family: "Ubuntu Mono"; }
+email { font-size: 18px; font-family: "Ubuntu Mono"; }
 
 .icon-button i { background: none; color: white; height: 3.6rem; left: 0; line-height: 3.6rem; position: absolute; top: 0; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -o-transition: all 0.3s; transition: all 0.3s; width: 3.6rem; z-index: 10; }
 
@@ -121,11 +121,12 @@ header ul a:hover { color: #999; }
 header ul a:active { background-color: #f0f0f0; }
 
 /* strong { color: #222; font-weight: 600; } */
-strong { color: #101010; font-weight: 700; }
+strong { color: #080808; font-weight: 800; }
 
 header ul li + li + li { border-right: none; width: 89px; }
 
-header ul a strong { font-size: 14px; display: block; color: #222; }
+/* header ul a strong { font-size: 14px; display: block; color: #222; } */
+header ul a strong { font-size: 14px; display: block; color: #080808; }
 
 section { width: 650px; float: right; padding-top: 4.0em; padding-bottom: 50px; }
 
