@@ -82,7 +82,8 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
+    // font-size: 14px;
+    font-size: 16px;
     font-family: "Ubuntu Mono";
 }
 
@@ -116,7 +117,8 @@ email {
 .icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
 
 autocolor{
-  color:#595959;
+  // color:#595959;
+  color:#3d3c3c;
 }
 
 lightonly {
@@ -160,7 +162,10 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
+      border-radius: 0;
+      width: 14rem;
+      aspect-ratio: 4 / 5;
+      overflow: hidden;
     }
 
       .image.avatar:before {
@@ -168,17 +173,19 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 100%;
-        width: 45%;
-        padding: 20px;
+        border-radius: 0;
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        object-fit: cover;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
       }
 
     #header .image.avatar {
-      margin: 0 0 1em 0;
-      width: 8.00em;
+      margin: 0 auto 1em;
+      width: 14rem;
     }
 
 h3, h4, h5, h6 {
@@ -336,9 +343,13 @@ header ul a:active {
   background-color:#f0f0f0;
 }
 
+// strong {
+//   color:#222;
+//   font-weight:500;
+// }
 strong {
-  color:#222;
-  font-weight:500;
+  color:#080808;
+  font-weight:600;
 }
 
 header ul li + li + li {
@@ -349,7 +360,7 @@ header ul li + li + li {
 header ul a strong {
   font-size:14px;
   display:block;
-  color:#222;
+  color:#080808;
 }
 
 section {
@@ -419,10 +430,16 @@ footer {
   }
 
 
+  .image.avatar {
+    width: min(60vw, 14rem);
+  }
+
    .image.avatar img {
-        border-radius: 100%;
-        width: 117px;
-        padding:20px;
+        border-radius: 0;
+        width: 100%;
+        height: 100%;
+        padding:0;
+        object-fit: cover;
       }
   #head1o2 {
     visibility: hidden;
@@ -475,10 +492,16 @@ footer {
     width:33%;
   }
 
+  .image.avatar {
+    width: min(80vw, 14rem);
+  }
+
   .image.avatar img {
-      border-radius: 100%;
-      width: 95px;
-      padding:20px;
+      border-radius: 0;
+      width: 100%;
+      height: 100%;
+      padding:0;
+      object-fit: cover;
   }
   #head1o2 {
     visibility: hidden;
