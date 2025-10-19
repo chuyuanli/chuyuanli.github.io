@@ -7,7 +7,7 @@ main:
     conference: Findings of the Empirical Methods in Natural Language Processing <strong>(Findings EMNLP)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2509.09852
     code: https://github.com/chuyuanli/TopicRL-for-MDS
-    poster: ./assets/file/paper/25emnlp-topicRL-poster.pdf
+    poster: ./assets/files/paper/25emnlp-topicRL-poster.pdf
     # bibtex: https://arxiv.org/abs/2509.09852
     image: ./assets/img/paper/25emnlp-topicRL.jpg
     # notes: Early Accept
