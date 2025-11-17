@@ -9,6 +9,8 @@ Hey! I am Chuyuan 李楚源. Usually, I go by Lisa.
 I am a postdoc researcher at the University of British Columbia, working with [Giuseppe Carenini](https://www.cs.ubc.ca/people/giuseppe-carenini). I obtained my Ph.D. at Lorraine Research Laboratory in Computer Science and its Applications ([LORIA](https://www.loria.fr/en/)) and Université de Lorraine ([UL](http://doctorat.univ-lorraine.fr/en/doctoral-schools/iaem)). During my Ph.D. years, I was fortunately advised by [Maxime Amblard](https://members.loria.fr/MAmblard/) and [Chloé Braud](https://www.irit.fr/~Chloe.Braud/). 
 Prior to that, I earned my Master's in [Computational Linguistique](https://u-paris.fr/linguistique/en/home/) from Université Paris Cité (formerly Paris Diderot) and my bachelor's in French from Wuhan University of Technology.
 
+I am currently on the job market and open to faculty or research opportunities.
+
 ## Research Interests
 
 I have broad interests in natural language processing and computational linguistics. Some of the topics that I am currently researching include:
