@@ -89,6 +89,15 @@ main:
     # notes: Best Paper Award
     # image: ./assets/img/paper/25sigdial-seq2seq-ddp.png
 
+  - title: "Discourse Relation Prediction and Discourse Parsing in Dialogues with Minimal Supervision"
+    authors: <strong>Chuyuan Li</strong>, Chloé Braud, Maxime Amblard, and Giuseppe Carenini.
+    conference_short: CODI
+    conference: Proceedings of the 5th Workshop on Computational Approaches to Discourse (CODI) (<strong>CODI</strong>), 2024.
+    pdf: https://aclanthology.org/2024.codi-1.15
+    # code: https://github.com/chuyuanli/PLM4DiscStruct
+    # page: https://aclanthology.org/2025.acl-long.1253/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    
   - title: "Discourse Structure Extraction from Pre-Trained and Fine-Tuned Language Models in Dialogues"
     authors: <strong>Chuyuan Li</strong>, Patrick Huber, Wen Xiao, Maxime Amblard, Chloé Braud and Giuseppe Carenini.
     conference_short: Findings EACL
@@ -106,3 +115,11 @@ main:
     conference: Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (<strong>SIGdial</strong>), 2022.
     pdf: https://aclanthology.org/2022.sigdial-1.7/
     code: https://github.com/chuyuanli/MTL4Depr
+
+  - title: "Investigation par méthodes d’apprentissage des spécificités langagières propres aux personnes avec schizophrénie (Investigating Learning Methods Applied to Language Specificity of Persons with Schizophrenia)."
+    authors: Maxime Amblard, Chloé Braud, <strong>Chuyuan Li</strong>, Michel Musiol, Caroline Demily et Nicolas Franck.
+    conference_short: TALN
+    conference: Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition) (<strong>JEP-TALN-RÉCITAL</strong>), 2020.
+    pdf: https://www.aclweb.org/anthology/2020.jeptalnrecital-taln.2/
+
+    
