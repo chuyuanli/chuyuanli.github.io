@@ -20,17 +20,16 @@ I have broad interests in natural language processing and computational linguist
 
 ## News
 
-- **[Nov. 2025]** Co-organized the first joint workshop [CODI-CRAC](https://sites.google.com/view/codi-crac2025/home) at EMNLP, its first time in China!
-- **[Sep. 2025]** 2nd joint workshop CODI-CRAC has been accepted to ACL 2026.
-- **[Sep. 2025]** Two papers accepted to NewSumm workshop, EMNLP 2025.
-- **[Sep. 2025]** One paper accepted to CODI-CRAC workshop, EMNLP 2025.
-- **[Aug. 2025]** Two papers accepted to EMNLP 2025.
-- **[May 2025]** Two papers accepted to ACL 2025.
-- **[Jan. 2025]** One paper accepted to Patient-Oriented Language Processing (CL4Health) workshop, NAACL 2025.
-- **[Oct. 2024]** One paper accepted to Machine Learning for Health Symposium (ML4H) 2024.
-- **[Sep. 2024]** My first-author paper won the [Best Paper Award](https://2024.sigdial.org/award/) at SIGdial 2024!
-- **[Jun. 2024]** Two papers accepted to SIGdial 2024.
-- **[March 2024]** Co-organized the 5th edition of [CODI workshop](https://sites.google.com/view/codi2024/home) at EACL 2024.
+- **[11/2025]** Co-organized the first joint workshop [CODI-CRAC](https://sites.google.com/view/codi-crac2025/home) at EMNLP 2025, its first time in China!
+- **[09/2025]** 2nd joint workshop CODI-CRAC has been accepted to ACL 2026.
+- **[09/2025]** One paper accepted to CODI-CRAC and two papers accepted to NewSumm workshop, EMNLP 2025.
+- **[08/2025]** Two papers accepted to EMNLP 2025.
+- **[05/2025]** Two papers accepted to ACL 2025.
+- **[01/2025]** One paper accepted to Patient-Oriented Language Processing (CL4Health) workshop, NAACL 2025.
+- **[10/2024]** One paper accepted to Machine Learning for Health Symposium (ML4H) 2024.
+- **[09/2024]** My first-author paper won the [Best Paper Award](https://2024.sigdial.org/award/) at SIGdial 2024!
+- **[07/2024]** Two papers accepted to SIGdial 2024.
+- **[03/2024]** Co-organized the 5th edition of [CODI workshop](https://sites.google.com/view/codi2024/home) at EACL 2024.
 
 
 {% include_relative _includes/publications.md %}
