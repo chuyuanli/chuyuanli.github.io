@@ -92,7 +92,7 @@ main:
   - title: "Discourse Relation Prediction and Discourse Parsing in Dialogues with Minimal Supervision"
     authors: <strong>Chuyuan Li</strong>, Chloé Braud, Maxime Amblard, and Giuseppe Carenini.
     conference_short: CODI
-    conference: Proceedings of the 5th Workshop on Computational Approaches to Discourse (CODI) (<strong>CODI</strong>), 2024.
+    conference: Proceedings of the 5th Workshop on Computational Approaches to Discourse (<strong>CODI</strong>), 2024.
     pdf: https://aclanthology.org/2024.codi-1.15
     # code: https://github.com/chuyuanli/PLM4DiscStruct
     # page: https://aclanthology.org/2025.acl-long.1253/
