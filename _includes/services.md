@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">Co-Organizer</h4>
 
 <ul style="margin:0 0 5px;">
+  <li></li><a href="https://2026.aclweb.org"> CODI-CRAC 2026: Second Joint Workshop on Computational Approaches to Discourse and Computational Models of Reference, Anaphora, and Coreference, held at ACL 2026</a></li>
   <li><a href="https://sites.google.com/view/disrpt2025/"><autocolor>DISRPT 2025, "Shared Task on Discourse Segmentation, Connective and Relation Identification across Formalisms", held at EMNLP 2025</autocolor></a></li>
   <li><a href="https://sites.google.com/view/codi-crac2025/"><autocolor>CODI-CRAC 2025, "First Joint Workshop on Computational Approaches to Discourse and Computational Models of Reference, Anaphora and Coreference", held at EMNLP 2025</autocolor></a></li>
   <li><a href="https://sites.google.com/view/codi2024/"><autocolor>CODI 2024, "Workshop on Computational Approaches to Discourse", held at EACL 2024</autocolor></a></li>
