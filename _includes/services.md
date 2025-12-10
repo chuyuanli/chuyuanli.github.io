@@ -14,9 +14,9 @@
 <h4 style="margin:0 10px 0;">Program Committee/Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Program Committee at HeaLing'26@EACL, LREC 2026, AAAI 2025, IWCS 2025, SIGdial 2024-2025</autocolor></li>
-  <li><autocolor>Area Chair (Discourse and Pragmatics track) at EACL 2026, NAACL 2025, COLING 2025, EMNLP 2024, EACL 2024</autocolor></li>
-  <li><autocolor>Standing Reviewer at ACL Rolling Review since 2023</autocolor></li>
+  <li><autocolor>Area Chair (Discourse and Pragmatics track): EACL 2026, NAACL 2025, COLING 2025, EMNLP 2024, EACL 2024</autocolor></li>
+  <li><autocolor>Program Committee (reviewer): HeaLing workshop 2026, CL4Health workshop 2025-26, LREC 2026, AAAI 2025, IWCS 2025, SIGdial 2024-2025</autocolor></li>
+  <li><autocolor>Standing Reviewer: ACL Rolling Review since 2023</autocolor></li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
