@@ -130,5 +130,6 @@ main:
     conference_short: TALN
     conference: Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition) (<strong>JEP-TALN-RÉCITAL</strong>), 2020.
     pdf: https://www.aclweb.org/anthology/2020.jeptalnrecital-taln.2/
+    slides: ./assets/files/paper/21taln-slides.pdf
 
     
