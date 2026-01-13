@@ -34,6 +34,13 @@
       {% endunless %}
       <a href="{{ poster_href }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       {% endif %}
+      {% if link.slides %}
+      {% assign slides_href = link.slides %}
+      {% unless slides_href contains '://' %}
+      {% assign slides_href = slides_href | relative_url %}
+      {% endunless %}
+      <a href="{{ slides_href }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
