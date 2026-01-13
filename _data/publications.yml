@@ -29,7 +29,7 @@ main:
     conference: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
     pdf: https://aclanthology.org/2025.acl-long.1253
     code: https://github.com/chuyuanli/Delta-KNN
-    slides: ./assets/files/paper/25acl-main-3619-slides.pdf
+    slides: ./assets/files/paper/25acl-main-3619_slides.pdf
     poster: ./assets/files/paper/25acl-Delta-KNN poster.pdf
     # page: https://aclanthology.org/2025.acl-long.1253/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
