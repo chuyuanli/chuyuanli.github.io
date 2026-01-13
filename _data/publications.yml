@@ -29,6 +29,8 @@ main:
     conference: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
     pdf: https://aclanthology.org/2025.acl-long.1253
     code: https://github.com/chuyuanli/Delta-KNN
+    slides: ./assets/files/paper/25acl-main-3619-slides.pdf
+    poster: ./assets/files/paper/25acl-Delta-KNN poster.pdf
     # page: https://aclanthology.org/2025.acl-long.1253/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
@@ -39,6 +41,7 @@ main:
     conference_short: Findings ACL
     conference: Findings of the Association for Computational Linguistics <strong>(Findings ACL)</strong>, 2025.
     pdf: https://aclanthology.org/2025.findings-acl.1123
+    poster: ./assets/files/paper/25acl-explicit-poster.pdf
     # code: https://github.com/chuyuanli/Delta-KNN
     # page: https://aclanthology.org/2025.findings-acl.1123
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -50,6 +53,7 @@ main:
     conference_short: ML4Health
     conference: Proceedings of the Second Workshop on Patient-Oriented Language Processing (<strong>CL4Health</strong>), NAACL, 2025.
     pdf: https://aclanthology.org/2025.cl4health-1.13/
+    poster: ./assets/files/paper/25cl4h-poster.pdf
     # code: https://github.com/chuyuanli/Delta-KNN
     # page: https://aclanthology.org/2025.acl-long.1253/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -61,6 +65,7 @@ main:
     conference_short: ML4H
     conference: Proceedings of the 4th Machine Learning for Health Symposium (<strong>CL4H</strong>), PMLR, 2024.
     pdf: https://proceedings.mlr.press/v259/chou25a.html
+    slides: ./assets/files/paper/24ml4h-Multimodal-Classification-slides.pdf
     # code: https://github.com/chuyuanli/Delta-KNN
     # page: https://aclanthology.org/2025.acl-long.1253/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -73,6 +78,7 @@ main:
     conference: Proceedings of the 25th Annual Meeting of the Special Interest Group on Discourse and Dialogue (<strong>SIGdial</strong>), 2024.
     pdf: https://aclanthology.org/2024.sigdial-1.1/
     code: https://github.com/chuyuanli/Seq2Seq-DDP
+    slides: ./assets/files/paper/24sigdial-slides-V3.pdf
     # page: https://aclanthology.org/2025.acl-long.1253/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Best Paper Award
@@ -94,6 +100,7 @@ main:
     conference_short: CODI
     conference: Proceedings of the 5th Workshop on Computational Approaches to Discourse (<strong>CODI</strong>), 2024.
     pdf: https://aclanthology.org/2024.codi-1.15
+    poster: ./assets/files/paper/24codi_poster.pdf
     # code: https://github.com/chuyuanli/PLM4DiscStruct
     # page: https://aclanthology.org/2025.acl-long.1253/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -104,6 +111,7 @@ main:
     conference: Findings of the European Chapter of the Association for Computational Linguistics (<strong>Findings EACL</strong>), 2023.
     pdf: https://aclanthology.org/2023.findings-eacl.194/
     code: https://github.com/chuyuanli/PLM4DiscStruct
+    slides: ./assets/files/paper/23eacl-slides.pdf
     # page: https://aclanthology.org/2025.acl-long.1253/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Best Paper Award
@@ -115,6 +123,7 @@ main:
     conference: Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (<strong>SIGdial</strong>), 2022.
     pdf: https://aclanthology.org/2022.sigdial-1.7/
     code: https://github.com/chuyuanli/MTL4Depr
+    poster: ./assets/files/paper/22sigdial_poster.pdf
 
   - title: "Investigation par méthodes d’apprentissage des spécificités langagières propres aux personnes avec schizophrénie (Investigating Learning Methods Applied to Language Specificity of Persons with Schizophrenia)."
     authors: Maxime Amblard, Chloé Braud, <strong>Chuyuan Li</strong>, Michel Musiol, Caroline Demily et Nicolas Franck.
