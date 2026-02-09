@@ -1,5 +1,16 @@
 main:
 
+  - title: "BeDiscovER: The Benchmark of Discourse Understanding in the Era of Reasoning Language Models"
+    authors: <strong>Chuyuan Li</strong>, Giuseppe Carenini
+    conference_short: EACL
+    conference: European Chapter of the Association for Computational Linguistics (<strong>EACL</strong>), 2026.
+    pdf: https://arxiv.org/pdf/2511.13095
+    code: https://github.com/chuyuanli/BeDiscovER
+    slides: ./assets/files/paper/26eacl-bediscover-slides.pdf
+    # bibtex: https://arxiv.org/abs/2509.09852
+    image: ./assets/img/paper/26eacl-bediscover.png
+    # notes: Early Accept
+
   - title: "Topic-Guided Reinforcement Learning with LLMs for Enhancing Multi-Document Summarization"
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     authors: <strong>Chuyuan Li</strong>, Austin Xu, Shafiq Joty, Giuseppe Carenini
