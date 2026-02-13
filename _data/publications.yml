@@ -6,7 +6,7 @@ main:
     conference: European Chapter of the Association for Computational Linguistics (<strong>EACL</strong>), 2026.
     pdf: https://arxiv.org/pdf/2511.13095
     code: https://github.com/chuyuanli/BeDiscovER
-    slides: ./assets/files/paper/26eacl-bediscover-slides.pdf
+    slides: ./assets/files/paper/26eacl-BeDiscovER-slides.pdf
     # bibtex: https://arxiv.org/abs/2509.09852
     image: ./assets/img/paper/26eacl-bediscover.png
     # notes: Early Accept

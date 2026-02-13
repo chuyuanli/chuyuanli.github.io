@@ -20,8 +20,9 @@ I have broad interests in natural language processing and computational linguist
 
 ## News
 
+- **[02/2026]** Two papers accepted to LREC 2026.
 - **[01/2026]** [BeDiscovER](https://arxiv.org/pdf/2511.13095) accepted to EACL 2026 main.
-- **[11/2025]** Co-organized the first joint workshop [CODI-CRAC'25](https://sites.google.com/view/codi-crac2025/home) at EMNLP 2025, its first time in China!
+- **[11/2025]** Co-organized the first joint workshop [CODI-CRAC'25](https://sites.google.com/view/codi-crac2025/home) at EMNLP 2025 -- its first time in China!
 - **[09/2025]** 2nd joint workshop [CODI-CRAC'26](https://sites.google.com/view/codi-crac2026/home) has been accepted to ACL 2026.
 - **[09/2025]** One paper accepted to CODI-CRAC and two papers accepted to NewSumm workshop, EMNLP 2025.
 - **[08/2025]** Two papers accepted to EMNLP 2025.
