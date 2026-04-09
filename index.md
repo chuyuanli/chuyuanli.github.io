@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hey! I am Chuyuan 李楚源. Usually, I go by Lisa. 
+Welcome! I am Chuyuan 李楚源. Usually, I go by Lisa. 
 
 I am a postdoc researcher at the University of British Columbia, working with [Giuseppe Carenini](https://www.cs.ubc.ca/people/giuseppe-carenini). I obtained my Ph.D. at Lorraine Research Laboratory in Computer Science and its Applications ([LORIA](https://www.loria.fr/en/)) and Université de Lorraine ([UL](http://doctorat.univ-lorraine.fr/en/doctoral-schools/iaem)). During my Ph.D. years, I was fortunately advised by [Maxime Amblard](https://members.loria.fr/MAmblard/) and [Chloé Braud](https://www.irit.fr/~Chloe.Braud/). 
 Prior to that, I earned my Master's in [Computational Linguistics](https://u-paris.fr/linguistique/en/home/) from Université Paris Cité (formerly Paris 7).
@@ -14,12 +14,13 @@ I am currently on the job market and open to faculty and research opportunities.
 ## Research Interests
 
 I have broad interests in natural language processing and computational linguistics. Some of the topics that I am currently researching include:
-- **Discourse Processing:** discourse parsing, relation prediction, discourse/pragmatic reasoning, long-document understanding and generation.
-- **Large Language Models:** in-context learning, post-training, interpretability, LLM-based multi-agent systems.
+- **Discourse Processing:** structure/relation prediction, discourse/pragmatic reasoning, intention detection, long-document understanding and generation.
+- **Large Language Models:** interpretability, in-context learning, post-training, LLM-based multi-agent systems.
 - **AI for Healthcare:** language specificity detection in mental and neurodegenerative disease, ML-mediated analysis, speech and multimodal data.
 
 ## News
 
+- **[04/2026]** One paper accepted to Canadian AI 2026.
 - **[02/2026]** Two papers accepted to LREC 2026.
 - **[01/2026]** [BeDiscovER](https://arxiv.org/pdf/2511.13095) accepted to EACL 2026 main.
 - **[11/2025]** Co-organized the first joint workshop [CODI-CRAC'25](https://sites.google.com/view/codi-crac2025/home) at EMNLP 2025 -- its first time in China!
