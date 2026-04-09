@@ -24,4 +24,5 @@ body {
 
 .zh-name {
   font-family: "Noto Serif SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", serif;
+  font-weight: 500;
 }
