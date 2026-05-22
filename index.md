@@ -6,20 +6,23 @@ layout: homepage
 
 Welcome! I am Chuyuan <span class="zh-name">李楚源</span>. Usually, I go by Lisa.
 
-I am a postdoc researcher at the University of British Columbia, working with [Giuseppe Carenini](https://www.cs.ubc.ca/people/giuseppe-carenini). I obtained my Ph.D. at Lorraine Research Laboratory in Computer Science and its Applications ([LORIA](https://www.loria.fr/en/)) and Université de Lorraine ([UL](http://doctorat.univ-lorraine.fr/en/doctoral-schools/iaem)). During my Ph.D. years, I was fortunately advised by [Maxime Amblard](https://members.loria.fr/MAmblard/) and [Chloé Braud](https://www.irit.fr/~Chloe.Braud/). 
+I recently joined Université Grenoble Alpes as a postdoc researcher, working on efficient training of large multimodal and specialized French language models as part of the [PARTAGES](https://health-data-hub.fr/page/projet-partages) project.
+Previouly, I worked with [Giuseppe Carenini](https://www.cs.ubc.ca/people/giuseppe-carenini) at the University of British Columbia in Canada. I obtained my Ph.D. at Lorraine Research Laboratory in Computer Science and its Applications ([LORIA](https://www.loria.fr/en/)) and Université de Lorraine ([UL](http://doctorat.univ-lorraine.fr/en/doctoral-schools/iaem)). During my Ph.D. years, I was fortunately advised by [Maxime Amblard](https://members.loria.fr/MAmblard/) and [Chloé Braud](https://www.irit.fr/~Chloe.Braud/). 
 Prior to that, I earned my Master's in [Computational Linguistics](https://u-paris.fr/linguistique/en/home/) from Université Paris Cité (formerly Paris 7).
 
-I am currently on the job market and open to faculty and research opportunities.
 
 ## Research Interests
 
 I have broad interests in natural language processing and computational linguistics. Some of the topics that I am currently researching include:
+- **Large Language/Multimodal Models:** interpretability, in-context learning, post-training, LLM-based multi-agent systems, LLM hallucination.
+- **AI for Healthcare:** specialized language models, language specificity detection in mental and neurodegenerative disease, ML-mediated analysis, multimodal data.
 - **Discourse Processing:** structure/relation prediction, discourse/pragmatic reasoning, intention detection, long-document understanding and generation.
-- **Large Language Models:** interpretability, in-context learning, post-training, LLM-based multi-agent systems.
-- **AI for Healthcare:** language specificity detection in mental and neurodegenerative disease, ML-mediated analysis, speech and multimodal data.
+
 
 ## News
 
+- **[05/2026]** Joined LIG, GETALP team in France as postdoc researcher. Hello, the Alpes!
+- **[04/2026]** One paper accepted to ICML 2026.
 - **[04/2026]** One paper accepted to Canadian AI 2026.
 - **[02/2026]** Two papers accepted to LREC 2026.
 - **[01/2026]** [BeDiscovER](https://arxiv.org/pdf/2511.13095) accepted to EACL 2026 main.
