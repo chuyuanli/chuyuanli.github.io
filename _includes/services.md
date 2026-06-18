@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Co-Organizer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://helsinki-nlp.github.io/shroom/2026"> Shroom-visions 2026: A Shared Task on Hallucination Detection in Large Vision-Language Models, to be held at EMNLP 2026</a></li>
+  <li><a href="https://helsinki-nlp.github.io/shroom/2026"> Shroom-visions 2026: A Shared Task on Hallucination Detection in Large Vision-Language Models, collocated with UncertaiNLP at EMNLP 2026</a></li>
   <li><a href="https://sites.google.com/view/codi-crac2026"> CODI-CRAC 2026: Second Joint Workshop on Computational Approaches to Discourse and Computational Models of Reference, Anaphora, and Coreference, to be held at ACL 2026</a></li>
   <li><a href="https://sites.google.com/view/disrpt2025/"> DISRPT 2025, "Shared Task on Discourse Segmentation, Connective and Relation Identification across Formalisms", held at EMNLP 2025</a></li>
   <li><a href="https://sites.google.com/view/codi-crac2025/">CODI-CRAC 2025, "First Joint Workshop on Computational Approaches to Discourse and Computational Models of Reference, Anaphora and Coreference", held at EMNLP 2025</a></li>
