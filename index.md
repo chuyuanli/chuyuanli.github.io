@@ -21,7 +21,7 @@ I have broad interests in natural language processing and computational linguist
 
 ## News
 
-- **[05/2026]** Joined LIG, GETALP team as postdoc researcher. Hello, the Alpes!
+- **[05/2026]** Joined LIG, GETALP team as postdoc researcher. Hello, the Alps!
 - **[04/2026]** One paper accepted to ICML 2026.
 - **[04/2026]** One paper accepted to Canadian AI 2026.
 - **[02/2026]** Two papers accepted to LREC 2026.
